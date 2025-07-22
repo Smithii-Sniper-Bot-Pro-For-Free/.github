@@ -1,7 +1,7 @@
 # Smithii Sniper Bot Pro — Download Free
 Get Smithii Sniper Bot Pro — the ultimate token sniping tool for crypto traders. Free download for Windows. Trade smarter and faster today.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://smithii-sniper-bot-pro-for-free.github.io/.github/)
 
 ---
 
